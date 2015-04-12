@@ -1,0 +1,2 @@
+# hinnadiskrimineerimine
+Diplomitöö realisatsiooni osa
